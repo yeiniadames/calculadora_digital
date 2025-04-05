@@ -10,9 +10,9 @@ body {
 
 .calculadora {
   display: block;
-  padding: 30px;
+  padding: 28px;
   background-color: #2980b9;
-  width: 370px;
+  width: 375px;
   height: 500px;
   border-radius: 25px;
   box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
@@ -33,7 +33,7 @@ body {
 #resultado {
   display: block;
   text-align: center;
-  font-size: 30px;
+  font-size: 33px;
   margin-bottom: 40px;
   width: 300px;
   height: 100px;
@@ -46,7 +46,7 @@ body {
 #historial {
   color: #fff;
   background-color: #2980b9;
-  padding: 10px;
+  padding: 15px;
   max-height: 10px;
   border-radius: 10px;
   width: 10px;
