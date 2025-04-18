@@ -4,7 +4,6 @@ var operandob;
 var operacion;
 var historial = [];
 
-
 function init() {
 
   var resultado = document.getElementById("resultado");
